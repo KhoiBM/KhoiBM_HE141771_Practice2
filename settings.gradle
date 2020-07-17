@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "KhoiBM_HE141771_Practicetest"
